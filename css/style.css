@@ -1,12 +1,148 @@
 body {
-  background-color: coral;
+  background-color: rgb(15, 14, 14);
+  
 }
 
 h1 {
-  font-size: 30pt;
+  text-decoration: underline overline dotted rgb(255, 0, 0);
+  font-size: 38pt;
+  text-align:center;
+  margin-top: 15pt;
   color: rgb(244, 251, 254);
 }
 
-main p {
-  color: rgb(244, 251, 254)
+
+
+
+h2 {
+  text-decoration: underline wavy rgb(0, 255, 242) 5px;
+  color: rgb(210, 105, 30);
+  font-size: 20pt;
+  margin-top: 25pt;
+  margin-left: 10pt;
+  padding-bottom: 10px;
+}
+
+.starting {
+  color: rgb(147, 25, 136);
+  font-size: 18pt;
+  font-style: italic;
+  padding-left: 30px;
+}
+
+.seattle {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(24, 50, 224);
+  font-size: 15pt;
+  padding-left: 50px;
+  padding-top: 10px;
+  font-style: normal;
+}
+
+.india {
+  border-radius: 50%;
+  margin-left: 300px;
+  width: 280px;
+  height: 220px;
+}
+
+h3 {
+  text-decoration: underline wavy rgb(0, 255, 242) 5px;
+  color: rgb(210, 105, 30);
+  text-align:left;
+  margin-left: 1050px ;
+
+  padding-bottom: 10px;
+  font-size: 20pt;
+  margin-top: 25pt;
+
+
+
+}
+
+.hobbiess {
+  margin-right: 300px;
+  text-align: end;
+  color: rgb(147, 25, 136);
+  font-size: 18pt;
+  font-style: italic;
+  padding-left: 30px;
+
+}
+
+.hobbies {
+  text-align: left;
+  margin-left: 1040px;
+  color: rgb(147, 25, 136);
+  font-size: 18pt;
+  font-style: italic;
+  padding-left: 30px;
+}
+
+
+
+
+
+.hobbiesF {
+  color: rgb(147, 25, 136);
+  font-size: 18pt;
+  font-style: italic;
+  padding-left: 30px;
+}
+
+.hobbylist {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(24, 50, 224);
+  font-size: 15pt;
+  padding-left: 50px;
+  padding-top: 10px;
+  font-style: normaL;
+  margin-left: 1050px;
+  text-align:left;
+}
+
+.hobbylistlast {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(24, 50, 224);
+  font-size: 15pt;
+  padding-left: 50px;
+  padding-top: 10px;
+  font-style: normal;
+
+}
+
+h4 {
+  text-decoration: underline wavy rgb(0, 255, 242) 5px;
+  color: rgb(210, 105, 30);
+  padding-bottom: 10px;
+  font-size: 20pt;
+  margin-top: 25pt;
+  margin-left: 10pt;
+}
+
+.seattleCity {  
+  border-radius: 50%;
+  margin-left: 300px;
+  width: 280px;
+  height: 220px;
+}
+
+
+h5 {
+  text-decoration: underline wavy rgb(0, 255, 242) 5px;
+  color: rgb(210, 105, 30);
+  text-align:left;
+  margin-left: 1050px ;
+  padding-bottom: 10px;
+  font-size: 20pt;
+  margin-top: 25pt;
+}
+
+h6 { 
+  text-decoration: underline wavy rgb(0, 255, 242) 5px;
+  color: rgb(210, 105, 30);
+  padding-bottom: 10px;
+  font-size: 20pt;
+  margin-top: 24pt;
+  margin-left: 10pt;
 }
