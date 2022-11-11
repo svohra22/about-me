@@ -128,15 +128,7 @@ h4 {
 }
 
 
-h5 {
-  text-decoration: underline wavy rgb(0, 255, 242) 5px;
-  color: rgb(210, 105, 30);
-  text-align:left;
-  margin-left: 1050px ;
-  padding-bottom: 10px;
-  font-size: 20pt;
-  margin-top: 25pt;
-}
+
 
 h6 { 
   text-decoration: underline wavy rgb(0, 255, 242) 5px;
@@ -145,4 +137,16 @@ h6 {
   font-size: 20pt;
   margin-top: 24pt;
   margin-left: 10pt;
+}
+
+h5 {
+  text-align: center;
+  color: chartreuse;
+  text-decoration: underline white 5px;
+  padding-bottom: 15pt;
+}
+.ten {
+  text-align: center;
+  color: deeppink;
+
 }
